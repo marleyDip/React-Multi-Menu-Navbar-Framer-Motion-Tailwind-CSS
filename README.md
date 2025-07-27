@@ -10,7 +10,7 @@
  - Easily customizable navigation bar.
  - Supports dropdown menus.
  - Responsive design for mobile and desktop views.
- - [Live Preview](https://multimenu-nav-react-tailwind.vercel.app/)
+ - [Live Preview](https://sofian-navbar.netlify.app/)
 
 ## Installation
 1. Clone the repository:
