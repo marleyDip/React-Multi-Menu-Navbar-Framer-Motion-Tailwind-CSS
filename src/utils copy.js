@@ -1,31 +1,33 @@
-import { Bolt } from "lucide-react";
-import { ShoppingBag } from "lucide-react";
-import { BellDot } from "lucide-react";
-import { BookOpenText } from "lucide-react";
-import { BriefcaseBusiness } from "lucide-react";
-import { CircleHelp } from "lucide-react";
-import { TriangleAlert } from "lucide-react";
-import { Users } from "lucide-react";
-import { Lock } from "lucide-react";
-import { Dessert } from "lucide-react";
-import { ShieldPlus } from "lucide-react";
-import { MessageCircle } from "lucide-react";
-import { Images } from "lucide-react";
-import { Figma } from "lucide-react";
-import { Play } from "lucide-react";
-import { MapPin } from "lucide-react";
-import { Database } from "lucide-react";
-import { PanelsTopLeft } from "lucide-react";
-import { PanelTop } from "lucide-react";
+/* import single name => import { PanelTop } from "lucide-react"; otherwise error */
 
-export const Menus = [
+import {
+  BellDot,
+  Bolt,
+  BookOpenText,
+  BriefcaseBusiness,
+  CircleHelp,
+  Database,
+  Dessert,
+  Images,
+  MapPin,
+  MessageCircle,
+  PanelsTopLeft,
+  PanelTop,
+  Play,
+  ShieldPlus,
+  ShoppingBag,
+  TriangleAlert,
+  Users,
+} from "lucide-react";
+
+export const menus = [
   {
     name: "Features",
-    subMenuHeading: ["Design", "Scale"],
+    SubMenuHeading: ["Design", "Scale"],
     subMenu: [
       {
         name: "Design",
-        desc: "Responsive design",
+        desc: "Responsive Design",
         icon: PanelsTopLeft,
       },
       {
@@ -48,7 +50,7 @@ export const Menus = [
   },
   {
     name: "Resources",
-    subMenuHeading: ["Get started", "Programs", "Recent"],
+    sunMenuHeading: ["Get Started", "Programs", "Recent"],
     subMenu: [
       {
         name: "Marketplace",
@@ -74,11 +76,6 @@ export const Menus = [
         name: "Blog",
         desc: "Posts",
         icon: BookOpenText,
-      },
-      {
-        name: "Figma",
-        desc: "Plugin",
-        icon: Figma,
       },
       {
         name: "Experts",
