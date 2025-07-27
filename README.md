@@ -2,7 +2,7 @@
 
 ## Description
 
-Responsive Multi Menu navigation bar using React JS, Tailwind CSS, and Framer Motion
+### Responsive Multi Menu navigation bar using React JS, Tailwind CSS, and Framer Motion
 
 ![unnamed](https://github.com/user-attachments/assets/61cc9abd-728f-473b-84c2-8ff433a2b63c)
 
