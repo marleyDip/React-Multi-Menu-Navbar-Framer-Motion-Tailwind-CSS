@@ -19,7 +19,7 @@
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Multimenu-nav-react-tailwind
+    cd React-Multi-Menu-Navbar-Framer-Motion-Tailwind-CSS
     ```
 3. Install the dependencies using `pnpm`:
     ```bash
