@@ -15,7 +15,7 @@
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Sridhar-C-25/Multimenu-nav-react-tailwind.git
+    git clone https://github.com/marleyDip/React-Multi-Menu-Navbar-Framer-Motion-Tailwind-CSS.git
     ```
 2. Navigate to the project directory:
     ```bash
